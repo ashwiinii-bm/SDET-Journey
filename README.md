@@ -1,3 +1,3 @@
 # SDET-Journey
-Python - Pycharm 
+Python - Pycharm |
 Selenium - Pytest framework
