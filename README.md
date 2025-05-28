@@ -1,3 +1,4 @@
 # SDET-Journey
 Python - Pycharm |
-Selenium - Pytest framework
+Selenium - Pytest framework |
+API Testing 
